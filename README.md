@@ -1,40 +1,85 @@
 # IBMHR Data Analysis with SQL
 
-Overview
-This GitHub repository contains SQL code for performing data analysis on the IBMHR dataset. The dataset includes information about employees, such as age, attrition, business travel, daily rate, and more.
+# Overview
+This project focuses on performing data analysis on the IBMHR dataset, which includes information about employees such as age, attrition, business travel, and various job-related factors. The dataset has been imported into a relational database, and the following SQL queries showcase different analyses to gain insights into employee demographics, satisfaction, and other relevant aspects.
 
-SQL Analysis
-Display First Few Rows:
+# Dataset Columns
+Age
+Attrition
+BusinessTravel
+DailyRate
+Department
+DistanceFromHome
+Education
+EducationField
+EmployeeCount
+EmployeeNumber
+EnvironmentSatisfaction
+Gender
+HourlyRate
+JobInvolvement
+JobLevel
+JobRole
+JobSatisfaction
+MaritalStatus
+MonthlyIncome
+MonthlyRate
+NumCompaniesWorked
+Over18
+OverTime
+PercentSalaryHike
+PerformanceRating
+RelationshipSatisfaction
+StandardHours
+StockOptionLevel
+TotalWorkingYears
+TrainingTimesLastYear
+WorkLifeBalance
+YearsAtCompany
+YearsInCurrentRole
+YearsSinceLastPromotion
+YearsWithCurrManager
+SQL Analyses
+Displaying Sample Data:
 
-Display the first five rows of the dataset.
+1- Display the first few rows of the dataset.
 Average Age:
 
-Calculate the average age of employees.
+2- Calculate the average age of employees.
 Employee Count by Gender:
 
-Count the number of employees by gender.
+3- Count the number of employees by gender.
 Average Monthly Income by Department:
 
-Calculate the average monthly income by department.
+4- Calculate the average monthly income by department.
 Most Common Job Roles:
 
-Identify the most common job roles.
+5- Identify the most common job roles.
 Attrition Rate:
 
-Calculate the overall attrition rate.
+6- Calculate the overall attrition rate.
 Average Experience by Education Level:
 
-Calculate the average years of experience (TotalWorkingYears) by education level.
+7- Calculate the average years of experience (TotalWorkingYears) by education level.
 Highest Monthly Income Employees:
 
-Identify employees with the highest monthly income.
+8- Identify employees with the highest monthly income.
 Lowest Job Satisfaction Employees:
 
-Identify employees with the lowest job satisfaction.
+9- Identify employees with the lowest job satisfaction.
 Average Years in Current Role by Department:
 
-Calculate the average years spent in the current role by department.
-Usage
-Import the IBMHR dataset into your SQL database.
+10- Calculate the average years spent in the current role by department.
+Feel free to explore and contribute to this project by enhancing the analyses, visualizing the results, or implementing additional SQL queries.
 
-Execute the SQL queries provided in the respective sections for data analysis.
+# How to Use
+Ensure you have a relational database with the IBMHR dataset imported.
+Execute the provided SQL queries using your database management system.
+Analyze the results and gain insights into the employee data.
+
+# Contributing
+Contributions are welcome! Whether it's adding new analyses, improving existing queries, or creating visualizations, your input is appreciated. Fork the repository, make your changes, and submit a pull request.
+
+# License
+This project is licensed under the MIT License.
+
