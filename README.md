@@ -5,41 +5,77 @@ This project focuses on performing data analysis on the IBMHR dataset, which inc
 
 # Dataset Columns
 Age
+
 Attrition
+
 BusinessTravel
+
 DailyRate
+
 Department
+
 DistanceFromHome
+
 Education
+
 EducationField
+
 EmployeeCount
+
 EmployeeNumber
+
 EnvironmentSatisfaction
+
 Gender
+
 HourlyRate
+
 JobInvolvement
+
 JobLevel
+
 JobRole
+
 JobSatisfaction
+
 MaritalStatus
+
 MonthlyIncome
+
 MonthlyRate
+
 NumCompaniesWorked
+
 Over18
+
 OverTime
+
 PercentSalaryHike
+
 PerformanceRating
+
 RelationshipSatisfaction
+
 StandardHours
+
 StockOptionLevel
+
 TotalWorkingYears
+
 TrainingTimesLastYear
+
 WorkLifeBalance
+
 YearsAtCompany
+
 YearsInCurrentRole
+
 YearsSinceLastPromotion
+
 YearsWithCurrManager
+
 SQL Analyses
+
 Displaying Sample Data:
 
 1- Display the first few rows of the dataset.
